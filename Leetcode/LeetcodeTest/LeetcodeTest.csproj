@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="000\000\001\TwoSumTest.cs" />
     <Compile Include="000\000\002\AddTwoNumbersTest.cs" />
+    <Compile Include="000\000\003\LongestSubstringWithoutRepeatingCharactersTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -53,7 +54,6 @@
     <None Include="Settings.StyleCop" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="000\000\003\" />
     <Folder Include="000\000\004\" />
     <Folder Include="000\000\005\" />
     <Folder Include="000\000\006\" />
