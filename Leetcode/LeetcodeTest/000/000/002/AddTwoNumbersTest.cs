@@ -21,7 +21,7 @@
             {
                 next = new ListNode(6)
                 {
-                    next = new ListNode(3)
+                    next = new ListNode(4)
                 }
             };
 
@@ -32,6 +32,18 @@
                     next = new ListNode(8)
                 }
             };
+
+            this.ExecuteSolution(l1, l2, expected);
+        }
+
+        [Test]
+        public void TwoSum_0()
+        {
+            ListNode l1 = new ListNode(0);
+
+            ListNode l2 = new ListNode(0);
+
+            ListNode expected = new ListNode(0);
 
             this.ExecuteSolution(l1, l2, expected);
         }
