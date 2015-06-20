@@ -45,6 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="000\000\001\TwoSum.docx" />
     <None Include="packages.config" />
     <None Include="Settings.StyleCop" />
   </ItemGroup>
