@@ -13,8 +13,14 @@
             this.ExecuteSolution(s, expected);
         }
 
+        [TestCase("abba", 2)]
+        public void TwoSum_abba(string s, int expected)
+        {
+            this.ExecuteSolution(s, expected);
+        }
+
         [TestCase("zzzabxxx", 4)]
-        [TestCase("bbbabccc", 3)]
+        [TestCase("bbabcc", 3)]
         public void TwoSum_Middle(string s, int expected)
         {
             this.ExecuteSolution(s, expected);
