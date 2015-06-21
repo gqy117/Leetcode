@@ -49,6 +49,7 @@
     <Compile Include="000\000\003\LongestSubstringWithoutRepeatingCharactersTest.cs" />
     <Compile Include="000\000\006\ZigZagConversionTest.cs" />
     <Compile Include="000\000\007\ReverseIntegerTest.cs" />
+    <Compile Include="000\000\009\PalindromeNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,7 +60,6 @@
     <Folder Include="000\000\004\" />
     <Folder Include="000\000\005\" />
     <Folder Include="000\000\008\" />
-    <Folder Include="000\000\009\" />
     <Folder Include="000\010\010\" />
     <Folder Include="000\010\011\" />
     <Folder Include="000\010\012\" />
