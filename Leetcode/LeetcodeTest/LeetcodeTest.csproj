@@ -51,6 +51,7 @@
     <Compile Include="000\000\007\ReverseIntegerTest.cs" />
     <Compile Include="000\000\009\PalindromeNumberTest.cs" />
     <Compile Include="000\010\012\RomanToIntegerTest.cs" />
+    <Compile Include="000\010\019\RemoveNthNodeFromEndOfListTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,7 +70,6 @@
     <Folder Include="000\010\016\" />
     <Folder Include="000\010\017\" />
     <Folder Include="000\010\018\" />
-    <Folder Include="000\010\019\" />
     <Folder Include="000\020\020\" />
     <Folder Include="000\020\021\" />
     <Folder Include="000\020\022\" />
