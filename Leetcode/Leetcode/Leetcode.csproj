@@ -48,6 +48,7 @@
     <Compile Include="000\000\006\ZigZagConversion.cs" />
     <Compile Include="000\000\007\ReverseInteger.cs" />
     <Compile Include="000\000\009\PalindromeNumber.cs" />
+    <Compile Include="000\010\012\RomanToInteger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -66,7 +67,6 @@
     <Folder Include="000\000\008\" />
     <Folder Include="000\010\010\" />
     <Folder Include="000\010\011\" />
-    <Folder Include="000\010\012\" />
     <Folder Include="000\010\013\" />
     <Folder Include="000\010\014\" />
     <Folder Include="000\010\015\" />
