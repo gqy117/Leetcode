@@ -48,6 +48,7 @@
     <Compile Include="000\000\002\AddTwoNumbersTest.cs" />
     <Compile Include="000\000\003\LongestSubstringWithoutRepeatingCharactersTest.cs" />
     <Compile Include="000\000\006\ZigZagConversionTest.cs" />
+    <Compile Include="000\000\007\ReverseIntegerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -57,7 +58,6 @@
   <ItemGroup>
     <Folder Include="000\000\004\" />
     <Folder Include="000\000\005\" />
-    <Folder Include="000\000\007\" />
     <Folder Include="000\000\008\" />
     <Folder Include="000\000\009\" />
     <Folder Include="000\010\010\" />

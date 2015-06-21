@@ -46,6 +46,7 @@
     <Compile Include="000\000\002\ListNode.cs" />
     <Compile Include="000\000\003\LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="000\000\006\ZigZagConversion.cs" />
+    <Compile Include="000\000\007\ReverseInteger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -53,13 +54,13 @@
     <None Include="000\000\002\AddTwoNumbers.docx" />
     <None Include="000\000\003\LongestSubstringWithoutRepeatingCharacters.docx" />
     <None Include="000\000\006\ZigZagConversion.docx" />
+    <None Include="000\000\007\ReverseInteger.docx" />
     <None Include="packages.config" />
     <None Include="Settings.StyleCop" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="000\000\004\" />
     <Folder Include="000\000\005\" />
-    <Folder Include="000\000\007\" />
     <Folder Include="000\000\008\" />
     <Folder Include="000\000\009\" />
     <Folder Include="000\010\010\" />
