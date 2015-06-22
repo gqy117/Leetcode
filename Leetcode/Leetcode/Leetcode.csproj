@@ -50,6 +50,7 @@
     <Compile Include="000\000\009\PalindromeNumber.cs" />
     <Compile Include="000\010\012\RomanToInteger.cs" />
     <Compile Include="000\010\019\RemoveNthNodeFromEndOfList.cs" />
+    <Compile Include="000\020\021\MergeTwoSortedLists.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +61,7 @@
     <None Include="000\000\007\ReverseInteger.docx" />
     <None Include="000\000\009\PalindromeNumber.docx" />
     <None Include="000\010\019\RemoveNthNodeFromEndOfList.docx" />
+    <None Include="000\020\021\MergeTwoSortedLists.docx" />
     <None Include="packages.config" />
     <None Include="Settings.StyleCop" />
   </ItemGroup>
@@ -76,7 +78,6 @@
     <Folder Include="000\010\017\" />
     <Folder Include="000\010\018\" />
     <Folder Include="000\020\020\" />
-    <Folder Include="000\020\021\" />
     <Folder Include="000\020\022\" />
     <Folder Include="000\020\023\" />
     <Folder Include="000\020\024\" />
