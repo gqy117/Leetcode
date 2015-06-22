@@ -59,6 +59,7 @@
     <Compile Include="000\010\012\RomanToIntegerTest.cs" />
     <Compile Include="000\010\019\RemoveNthNodeFromEndOfListTest.cs" />
     <Compile Include="000\020\021\MergeTwoSortedListsTest.cs" />
+    <Compile Include="000\020\026\RemoveDuplicatesFromSortedArrayTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -82,7 +83,6 @@
     <Folder Include="000\020\023\" />
     <Folder Include="000\020\024\" />
     <Folder Include="000\020\025\" />
-    <Folder Include="000\020\026\" />
     <Folder Include="000\020\027\" />
     <Folder Include="000\020\028\" />
     <Folder Include="000\020\029\" />
