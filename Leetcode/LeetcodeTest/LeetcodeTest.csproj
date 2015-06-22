@@ -58,6 +58,7 @@
     <Compile Include="000\000\009\PalindromeNumberTest.cs" />
     <Compile Include="000\010\012\RomanToIntegerTest.cs" />
     <Compile Include="000\010\019\RemoveNthNodeFromEndOfListTest.cs" />
+    <Compile Include="000\020\021\MergeTwoSortedListsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -77,7 +78,6 @@
     <Folder Include="000\010\017\" />
     <Folder Include="000\010\018\" />
     <Folder Include="000\020\020\" />
-    <Folder Include="000\020\021\" />
     <Folder Include="000\020\022\" />
     <Folder Include="000\020\023\" />
     <Folder Include="000\020\024\" />
