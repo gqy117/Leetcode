@@ -61,6 +61,7 @@
     <Compile Include="000\020\021\MergeTwoSortedListsTest.cs" />
     <Compile Include="000\020\026\RemoveDuplicatesFromSortedArrayTest.cs" />
     <Compile Include="000\050\050\PowTest.cs" />
+    <Compile Include="000\050\058\LengthOfLastWordTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -114,7 +115,6 @@
     <Folder Include="000\050\055\" />
     <Folder Include="000\050\056\" />
     <Folder Include="000\050\057\" />
-    <Folder Include="000\050\058\" />
     <Folder Include="000\050\059\" />
     <Folder Include="000\060\060\" />
     <Folder Include="000\060\061\" />
