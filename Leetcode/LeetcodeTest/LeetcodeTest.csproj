@@ -60,6 +60,7 @@
     <Compile Include="000\010\019\RemoveNthNodeFromEndOfListTest.cs" />
     <Compile Include="000\020\021\MergeTwoSortedListsTest.cs" />
     <Compile Include="000\020\026\RemoveDuplicatesFromSortedArrayTest.cs" />
+    <Compile Include="000\050\050\PowTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -106,7 +107,6 @@
     <Folder Include="000\040\047\" />
     <Folder Include="000\040\048\" />
     <Folder Include="000\040\049\" />
-    <Folder Include="000\050\050\" />
     <Folder Include="000\050\051\" />
     <Folder Include="000\050\052\" />
     <Folder Include="000\050\053\" />
