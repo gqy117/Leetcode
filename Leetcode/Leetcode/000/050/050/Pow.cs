@@ -6,7 +6,7 @@
     {
         public static double Solution(double x, int n)
         {
-            throw new NotImplementedException();
+            return Math.Pow(x, n);
         }
     }
 }
