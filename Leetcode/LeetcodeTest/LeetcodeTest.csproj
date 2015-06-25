@@ -62,6 +62,7 @@
     <Compile Include="000\020\026\RemoveDuplicatesFromSortedArrayTest.cs" />
     <Compile Include="000\050\050\PowTest.cs" />
     <Compile Include="000\050\058\LengthOfLastWordTest.cs" />
+    <Compile Include="000\060\067\AddBinaryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -123,7 +124,6 @@
     <Folder Include="000\060\064\" />
     <Folder Include="000\060\065\" />
     <Folder Include="000\060\066\" />
-    <Folder Include="000\060\067\" />
     <Folder Include="000\060\068\" />
     <Folder Include="000\060\069\" />
     <Folder Include="000\070\070\" />
