@@ -1,12 +1,17 @@
 ﻿namespace Leetcode
 {
-    using System;
+    using System.Linq;
 
     public class SortColors
     {
-        public static double Solution(int[] nums)
+        public static void Solution(int[] nums)
         {
-            throw new NotImplementedException();
+            var listNums = nums.OrderBy(x => x).ToList();
+
+            for (int i = 0; i < listNums.Count; i++)
+            {
+                nums[i] = listNums[i];
+            }
         }
     }
 }
