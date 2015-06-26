@@ -55,6 +55,7 @@
     <Compile Include="000\050\050\Pow.cs" />
     <Compile Include="000\050\058\LengthOfLastWord.cs" />
     <Compile Include="000\060\067\AddBinary.cs" />
+    <Compile Include="000\070\075\SortColors.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -68,6 +69,7 @@
     <None Include="000\020\021\MergeTwoSortedLists.docx" />
     <None Include="000\020\026\Remove Duplicates from Sorted Array.docx" />
     <None Include="000\050\058\Length of Last Word.docx" />
+    <None Include="000\070\075\SortColors.docx" />
     <None Include="packages.config" />
     <None Include="Settings.StyleCop" />
   </ItemGroup>
@@ -133,7 +135,6 @@
     <Folder Include="000\070\072\" />
     <Folder Include="000\070\073\" />
     <Folder Include="000\070\074\" />
-    <Folder Include="000\070\075\" />
     <Folder Include="000\070\076\" />
     <Folder Include="000\070\077\" />
     <Folder Include="000\070\078\" />

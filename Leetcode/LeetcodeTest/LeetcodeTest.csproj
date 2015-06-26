@@ -63,6 +63,7 @@
     <Compile Include="000\050\050\PowTest.cs" />
     <Compile Include="000\050\058\LengthOfLastWordTest.cs" />
     <Compile Include="000\060\067\AddBinaryTest.cs" />
+    <Compile Include="000\070\075\SortColorsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -131,7 +132,6 @@
     <Folder Include="000\070\072\" />
     <Folder Include="000\070\073\" />
     <Folder Include="000\070\074\" />
-    <Folder Include="000\070\075\" />
     <Folder Include="000\070\076\" />
     <Folder Include="000\070\077\" />
     <Folder Include="000\070\078\" />
