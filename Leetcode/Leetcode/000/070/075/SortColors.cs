@@ -6,11 +6,19 @@
     {
         public static void Solution(int[] nums)
         {
-            var listNums = nums.OrderBy(x => x).ToList();
+            int temp = 0;
 
-            for (int i = 0; i < listNums.Count; i++)
+            for (int i = 0; i < nums.Length - 1; i++)
             {
-                nums[i] = listNums[i];
+                for (int j = i + 1; j < nums.Length; j++)
+                {
+                    if (nums[i] > nums[j])
+                    {
+                        temp = nums[i];
+                        nums[i] = nums[j];
+                        nums[j] = temp;
+                    }
+                }
             }
         }
     }
