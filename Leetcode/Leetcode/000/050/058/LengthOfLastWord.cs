@@ -5,7 +5,7 @@
 
     public class LengthOfLastWord
     {
-        private const string Space = " ";
+        public const string Space = " ";
 
         public static int Solution(string s)
         {
